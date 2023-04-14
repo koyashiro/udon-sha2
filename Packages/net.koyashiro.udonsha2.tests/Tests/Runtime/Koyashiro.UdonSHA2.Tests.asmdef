@@ -1,0 +1,17 @@
+{
+    "name": "Koyashiro.UdonSHA2.Tests",
+    "references": [
+        "UdonSharp.Runtime",
+        "Koyashiro.UdonTest",
+        "Koyashiro.UdonSHA2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
