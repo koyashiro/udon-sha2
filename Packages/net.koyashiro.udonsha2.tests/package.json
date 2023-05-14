@@ -3,8 +3,8 @@
   "displayName": "UdonSHA2.Tests",
   "version": "0.1.0",
   "vpmDependencies": {
-    "com.vrchat.udonsharp": "1.1.7",
+    "com.vrchat.udonsharp": "1.1.8",
     "net.koyashiro.udonsha2": "0.1.0",
-    "net.koyashiro.udontest": "0.4.2"
+    "net.koyashiro.udontest": "0.5.2"
   }
 }

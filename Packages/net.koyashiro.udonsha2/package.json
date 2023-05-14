@@ -26,7 +26,7 @@
   ],
   "url": "https://github.com/koyashiro/udon-sha2/releases/download/v0.1.0/net.koyashiro.udonsha2-0.1.0.zip",
   "vpmDependencies": {
-    "com.vrchat.udonsharp": "1.1.7"
+    "com.vrchat.udonsharp": "^1.1.8"
   },
   "repo": "https://vpm.koyashiro.net/repos.json"
 }
